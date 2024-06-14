@@ -55,7 +55,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <LibraryReference Include="mobject-promises,0.1.0,mobject">
+    <LibraryReference Include="mobject-promises,0.2.0,mobject">
       <Namespace>mobject_promises</Namespace>
     </LibraryReference>
   </ItemGroup>
